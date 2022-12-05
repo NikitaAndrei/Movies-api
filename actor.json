@@ -1,0 +1,65 @@
+[
+    {
+      "id": 4764622,
+      "enName": "Samuel L. Jackson",
+      "photo": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/2c4a3629-917c-431e-864e-c6e03b1b8b3a/280x420",
+      "age": 73,
+      "sex": "Mees"
+    },
+    {
+      "id": 194998,
+      "enName": "Leo Carrillo",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194998.jpg",
+      "age": 80,
+      "sex": "Mees"
+    },
+    {
+      "id": 201382,
+      "enName": "Leon Shamroy",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201382.jpg",
+      "age": 72,
+      "sex": "Mees"
+    },
+    {
+      "id": 5813,
+      "enName": "Leo Rossi",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5813.jpg",
+      "age": 74,
+      "sex": "Mees"
+    },
+    {
+      "id": 1091615,
+      "enName": "Léo-Paul Salmain",
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1091615.jpg",
+      "age": 26,
+      "sex": "Mees"
+    },
+    {
+      "id": 204328,
+      "enName": "Leo Castillo",
+      "photo": "https://d27790xjhw2fza.cloudfront.net/as/assets-mem-com/cmi/0/0/2/6/5396200/20130125_121924593_1_orig.jpg/-/jose-castillo-tampa-fl-photos1.jpg",
+      "age": 89,
+      "sex": "Mees"
+    },
+    {
+      "id": 204327,
+      "enName": "Leonard Praskins",
+      "photo": "https://images.mubicdn.net/images/cast_member/25005/cache-183024-1479264621/image-w856.jpg?size=800x",
+      "age": 72,
+      "sex": "Mees"
+    },
+    {
+      "id": 1917046,
+      "enName": "Yuri Vladimirovich Nikulin",
+      "photo": "https://www.film.ru/sites/default/files/styles/thumb_260x320/public/people/yuriy-nikulin.jpg",
+      "age": 75,
+      "sex": "Mees"
+    },
+    {
+      "id": 452685,
+      "enName": "Mikk Arnoldovitš Mikiver",
+      "photo": "https://upload.wikimedia.org/wikipedia/ru/9/9a/Mikk_Mikiver.jpg",
+      "age": 85,
+      "sex": "Mees"
+    }
+  ]
